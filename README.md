@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Computer Engineering student from Ankara, Turkey</h3>
 
 - 🌱 I’m currently learning **Python and C**
-
-- 👨‍💻 All of my projects are available at (askingunduzz.github.io)(askingunduzz.github.io)  <a href= "askingunduzz.github.io">hel</a>
+<body>
+- 👨‍💻 All of my projects are available at <a href= "askingunduzz.github.io">hkkkkkkel</a>  </body>
 
 - 📫 How to reach me **askingunduzz@gmail.com**   or   **askin.gunduz@tedu.edu.tr**
 
