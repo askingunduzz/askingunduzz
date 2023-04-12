@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python and C**
 
-- 👨‍💻 All of my projects are available at <a href= "askingunduzz.github.io"> My Portfolio </a>  
+- 👨‍💻 All of my projects are available at <a href= "https://askingunduzz.github.io"> My Portfolio </a>  
 
 - 📫 How to reach me **askingunduzz@gmail.com**   or   **askin.gunduz@tedu.edu.tr**
 
